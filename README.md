@@ -11,7 +11,7 @@
 <img  src="./working.gif" height="290px" align="right" />
 
 - 🖐Hi there!, I'm Gaurav Gupta.
-- 
+  
 - 👨‍💻 I’m currently working as a `Freelance Software Engineer`.
 
 - 💻 Creating dynamic, interactive websites for clients.
