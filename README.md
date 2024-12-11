@@ -57,17 +57,7 @@
 
 <h2>Show some ❤️ by starring some of the repositories!</h2>
 <p>
-  <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
-  </a>
-</p>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- <br/>
-
-<h2>Show some ❤️ by starring some of the repositories!</h2>
-<p>
-  <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+  <a href="https://github.com/Gaurav1129">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" /> -->
   </a>
 </p>
