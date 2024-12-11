@@ -50,7 +50,17 @@
 <div align="left">
 <h2>GitHub Stats:</h2>
 </div>            
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav1129&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav1129&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ <br/>
+
+<h2>Show some ❤️ by starring some of the repositories!</h2>
+<p>
+  <a href="https://github.com/CodeVinayak">
+    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+  </a>
+</p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <br/>
