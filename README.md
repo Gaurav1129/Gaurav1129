@@ -50,7 +50,7 @@
 <div align="left">
 <h2>GitHub Stats:</h2>
 </div>
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav1129&theme=highcontrast" alt="GitHub Streak" /></a> -->
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav1129&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav1129&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <br/>
