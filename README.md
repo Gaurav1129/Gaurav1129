@@ -2,7 +2,7 @@
 <h1 align="center">Hi Folks<img src="Hi.gif" width="30px" height="30px"> Gaurav is here </h1>
 
 <div align="center">
-<img src ="./user.svg" />
+<img src ="./github-header-image.png" width="3000px"/>
 </div>
 <br/>
 
